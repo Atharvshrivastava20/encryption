@@ -25,12 +25,14 @@ The encryption process involves taking a plaintext message and replacing each ch
    ```bash
    git clone https://github.com/your-username/encryption-decryption-program.git
 ## Navigate to the project directory:
+
    cd encryption-decryption-program
+   
 ## Install the required dependencies:
     pip install tqdm
 ## Usage
 Run the program:
-      python encryption_decryption.py
+    python encryption_decryption.py
 
 1. Enter your username when prompted.
 
